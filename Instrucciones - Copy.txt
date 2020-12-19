@@ -1,0 +1,25 @@
+
+Método de activación fuera de línea:
+
+1. Desactivamos la tarjeta de red.
+2. Instalar Master Collection CS6 con una serie generada a partir de nuestro Keymaker
+   No se pudo conectar a la Internet.
+   Así que confirmar que lo se realizara mas tarde.
+3. Lanzar una aplicación de Adobe (Photoshop, Illustartor, ...)
+4. Confirme que tiene "problemas de conexión" y que desea que se active en línea.
+5. Se generara un # de solicitud el cual debemos introducir en el keymaker y obtener otro código para validad el producto.
+6. Validar por supuesto :)
+7. disfrutar
+
+
+Si encuentra algún problema con una instalación anterior / crack, por favor
+desinstalar colección Master y eliminar las carpetas:
+
+C:\Program Files (x86)\Common Files\Adobe\SLCache
+C:\ProgramData\Adobe\SLStore
+
+
+1325-1923-5187-8757-3308-6563
+gQAP sOng hUoQ 7hFO 6+N2 zrzT vB3+ jwnu 2WOD Yg4Z bt8=
+
+Contraseña  para el compilado:compurapido
